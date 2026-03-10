@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイニーブルー",
+  "base_artist": "ZLMS",
+  "createdAt": "2026-03-10T14:13:40.954348Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイニーブルー",
+      "artist": "ZLMS",
+      "has_synced": false,
+      "path": "select/pl_01_アイニーブルー_ZLMS.txt"
+    }
+  ]
+}
